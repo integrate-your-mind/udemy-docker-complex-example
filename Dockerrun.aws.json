@@ -13,7 +13,7 @@
       "image": "rmnlaiacona/multi-server",
       "hostname": "api",
       "essential": false,
-      "memory": 128
+      "memoryReservation": 128
     },
     {
       "name": "worker",
